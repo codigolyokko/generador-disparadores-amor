@@ -11,3 +11,5 @@ Este es un pequeño proyecto web que genera comienzos de historias de amor aleat
 - CSS
 - JavaScript
 
+![Web](generador-disparadores/images/generador-texto1.jpg)
+![Disparador aleatorio](generador-disparadores/images/generador-texto2.jpg)
