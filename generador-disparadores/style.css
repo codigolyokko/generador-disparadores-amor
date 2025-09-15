@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background-color: #fdf8f7;
+  color: #69524d;
+  text-align: center;
+}
+
+#disparador {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  max-width: 600px;
+  transition: opacity 0.3s; /* efecto suave al cambiar texto */
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  background-color: #e7b3a6;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #9f776f;
+}
+
+#gif {
+  margin-top: 20px;
+  max-width: 400px;
+}
